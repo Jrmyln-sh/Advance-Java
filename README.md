@@ -1,2 +1,3 @@
-# Advance-Java
-First Assignment for advance Java
+# Java Activity
+
+Simple Login And Registration of user account.
